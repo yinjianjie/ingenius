@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "yinjianjie"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : # "yinjianjie"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing powerful** person."
   location         : "Beijing-China"
   email            :
